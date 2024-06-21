@@ -6,15 +6,16 @@ gain hands-on experience with cutting-edge technologies, and develop a deep unde
 generative models.
 
 ## Table of Contents -
-#1. Introduction
-#2. Objectives
-#3. Flow of Work
-#4. Sample Projects
-#5. Requirements
-#6. Contributing
-#7. Resources
-#8. License
-##Introduction
+# 1. Introduction
+# 2. Objectives
+# 3. Flow of Work
+# 4. Sample Projects
+# 5. Requirements
+# 6. Contributing
+# 7. Resources
+# 8. License
+
+## Introduction
 The Generative AI Internship is an educational program aimed at aspiring AI enthusiasts who
 want to delve into the world of generative models. This internship will cover a range of topics
 which enhances the proficiency of the student in the field of the Generative AI.
