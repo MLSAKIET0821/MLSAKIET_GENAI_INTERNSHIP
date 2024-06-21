@@ -12,8 +12,7 @@ understanding of generative models.
 5. [Pull Request](#pull-request)
 6. [Contact](#contact)
 ## Introduction
-![1686224968581](https://github.com/MLSAKIET0821/MLSAKIET_GENAI_INTERNSHIP/assets
-/106628981/8fd64d2c-2ab8-4f76-87ca-7a716a7b61c4) 
+![1686224968581](https://github.com/MLSAKIET0821/MLSAKIET_GENAI_INTERNSHIP/assets/106628981/8fd64d2c-2ab8-4f76-87ca-7a716a7b61c4)
 
 Welcome to the Generative AI Internship! This program is designed to provide hands-on
 experience with cutting-edge generative AI technologies. Interns will work on real-world
@@ -48,14 +47,37 @@ professionalism.
 5. **Collaboration:** While collaboration is encouraged, all work submitted must be original and
 completed by the individual.
 ## Sample Projects
-During this internship, you can work on the following projects or can have an idea to develop the
-projects which can be derived from this:
+During this internship, you can work on the following projects or can have an idea to develop the projects which can be derived from this:
+
 1. **Basic GAN Implementation**
-@@ -56,46 +69,90 @@ Generate music using generative models like WaveNet.
+
+Understand the architecture of GANs and implement a basic GAN to generate images.
+
+2. **Variational Autoencoder** 
+
+ Learn about VAEs and build a model to generate new data points from learned representations. 
+
+3. **Text Generation with GPT** 
+
+Use GPT (Generative Pre-trained Transformer) models for text generation tasks. 
+
+4. **Style Transfer** 
+
+Implement neural style transfer to apply artistic styles to images. 
+
+5. **Music Generation** 
+
+ Generate music using generative models like WaveNet.
+
+## Requirements
 To get started with the projects, ensure you have the following prerequisites: -
+
 1. **Latest Vesion of Python**
+
 2. **Basic knowledge of TensorFlow, PyTorch and Pandas**
+
 3. **Use of IDE’s like Jupyter Notebook, VS Code, PyCharm, etc**
+
 4. **Basic understanding of Machine Learning and Deep Learning**
 ## Pull Request
 Making a pull request on GitHub involves several steps, starting from cloning a repository,
