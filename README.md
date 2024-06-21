@@ -13,7 +13,8 @@ understanding of generative models.
 6. [Contact](#contact)
 ## Introduction
 ![1686224968581](https://github.com/MLSAKIET0821/MLSAKIET_GENAI_INTERNSHIP/assets
-/106628981/8fd64d2c-2ab8-4f76-87ca-7a716a7b61c4)
+/106628981/8fd64d2c-2ab8-4f76-87ca-7a716a7b61c4) 
+
 Welcome to the Generative AI Internship! This program is designed to provide hands-on
 experience with cutting-edge generative AI technologies. Interns will work on real-world
 projects, develop advanced machine learning models, and gain a deep understanding of
