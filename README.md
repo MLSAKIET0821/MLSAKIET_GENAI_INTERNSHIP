@@ -1,5 +1,4 @@
 # MLSAKIET_GENAI_INTERNSHIP
-# Generative AI Internship
 Welcome to the Generative AI Internship repository provided by MLSA KIET!
 This repository is designed to provide a comprehensive learning experience in the field of
 Generative Artificial Intelligence. Throughout this internship, you will work on various projects,
@@ -7,14 +6,14 @@ gain hands-on experience with cutting-edge technologies, and develop a deep unde
 generative models.
 
 ## Table of Contents -
-1. Introduction
-2. Objectives
-3. Flow of Work
-4. Sample Projects
-5. Requirements
-6. Contributing
-7. Resources
-8. License
+#1. Introduction
+#2. Objectives
+#3. Flow of Work
+#4. Sample Projects
+#5. Requirements
+#6. Contributing
+#7. Resources
+#8. License
 ##Introduction
 The Generative AI Internship is an educational program aimed at aspiring AI enthusiasts who
 want to delve into the world of generative models. This internship will cover a range of topics
@@ -25,19 +24,7 @@ Some of the basic objective of the intenship is to provide:
 generative AI tools and frameworks.
 2. Problem-Solving Enhancement: Strengthen students' problem-solving capabilities and
 technical expertise in AI.
-3.
-#Flow of Work
-This is the second phase of the internship which is:
-This phase states that:
-60 Hours of Project Work & Creating Git PR (Pull Request & Repository Work)
-The workflow of this part is as follows:
-Projects will be assigned based on respective domains.
-1. Projects are categorized into Easy, Intermediate, and Difficult levels.
-2. Option to complete an Easy and an Intermediate project or one Difficult project.
-3. Includes support and resolution of doubts.
-4. Compilation and submission of projects for evaluation.
 
-   
 ## Sample Projects
 
 During this internship, you will work on the following projects or can have an idea to develop the
